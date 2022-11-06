@@ -1,0 +1,22 @@
+Fontes
+
+font-family: 'Cinzel', serif;
+font-family: 'Inter', sans-serif;
+
+cinzel heading-mega 72px line-height 80% Bold
+cinzel heading-large 48px line-height 52% Bold
+cinzel heading-medium 32px line-height 40% Bold
+
+paragraph-large 18px line-height 32% Regular
+paragraph-medium 16px line-height 28% paragraph-spacing 16 Regular
+
+cinzel display-button 14px 100% line-height bold
+
+
+Cores
+
+primary/50-default #16161A
+primary/40 #27272E
+white/100-default 
+
+emphasis/50-default #FFC34D
